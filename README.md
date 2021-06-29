@@ -7,3 +7,6 @@ Module 2 Output
 
 Module 4 Output
 https://aadityasrinivas.github.io/coursera_test/HTML%20CSS%20JS/Mod-4/index.html
+
+Module 5 Output
+https://aadityasrinivas.github.io/coursera_test/HTML%20CSS%20JS/Mod-5/index.html
